@@ -11,22 +11,42 @@
 
 .footer {
     background-color: #111111;
-    color: #9b9b9b;
+    color: #dfdfd9;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
-/* a {
-  text-decoration: none;
-} */
+
+.footer a {
+    color: #dfdfd9;
+}
+
 .jumbotron {
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background-color: #116466;
+    background-color: #00887A;
+    background-image: linear-gradient(#43cea2, #185a9d);
     color: floralwhite;
 
 }
-.address {
+address {
     font-size: 80%;
     margin: 0px;
-    color: red;
+   
+}
+body {
+    background-color: #D3E3FC;
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: #000;
+    background-image: linear-gradient(45deg,#000 0%, #00887A 100%);
+}
+.breadcrumb {
+    background-color: #43cea2;
+}
+.breadcrumb a {
+    color: black;
+    
 }
