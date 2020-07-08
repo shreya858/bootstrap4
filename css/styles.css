@@ -50,3 +50,17 @@ body {
     color: black;
     
 }
+.card-header {
+    background-color:#111111;
+    color: whitesmoke;
+}
+.card-body {
+    background-color: #43cea2;
+}
+
+.blockquote footer {
+    color: #111111;
+}
+.blockquote p {
+    font-weight: bold;
+}
